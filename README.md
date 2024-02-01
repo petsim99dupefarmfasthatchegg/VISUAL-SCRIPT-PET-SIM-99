@@ -1,0 +1,13 @@
+petsim99-visual
+petsim99-pets
+petsim99-visualscript
+petsim99-spawner
+petsim99-duplicated
+petsim99-petsim
+petsim99-autofarm
+petsim99-autocollect
+petsim99-autohatch
+petsim99-mailsteal
+petsim99-dupe
+petsim99-ps99
+petsim99-visual
